@@ -1,0 +1,10 @@
+C:\C# Exercises\WindowsFormsApp_1.2\bin\Debug\WindowsFormsApp_1.2.exe.config
+C:\C# Exercises\WindowsFormsApp_1.2\bin\Debug\WindowsFormsApp_1.2.exe
+C:\C# Exercises\WindowsFormsApp_1.2\bin\Debug\WindowsFormsApp_1.2.pdb
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1.2.csproj.AssemblyReference.cache
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1._2.Form1.resources
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1._2.Properties.Resources.resources
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1.2.csproj.GenerateResource.cache
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1.2.csproj.CoreCompileInputs.cache
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1.2.exe
+C:\C# Exercises\WindowsFormsApp_1.2\obj\Debug\WindowsFormsApp_1.2.pdb
