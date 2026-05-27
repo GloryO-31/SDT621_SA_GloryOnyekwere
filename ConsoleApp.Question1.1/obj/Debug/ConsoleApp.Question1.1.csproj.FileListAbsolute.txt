@@ -1,0 +1,7 @@
+C:\C# Exercises\ConsoleApp.Question1.1\bin\Debug\ConsoleApp.Question1.1.exe.config
+C:\C# Exercises\ConsoleApp.Question1.1\bin\Debug\ConsoleApp.Question1.1.exe
+C:\C# Exercises\ConsoleApp.Question1.1\bin\Debug\ConsoleApp.Question1.1.pdb
+C:\C# Exercises\ConsoleApp.Question1.1\obj\Debug\ConsoleApp.Question1.1.csproj.AssemblyReference.cache
+C:\C# Exercises\ConsoleApp.Question1.1\obj\Debug\ConsoleApp.Question1.1.csproj.CoreCompileInputs.cache
+C:\C# Exercises\ConsoleApp.Question1.1\obj\Debug\ConsoleApp.Question1.1.exe
+C:\C# Exercises\ConsoleApp.Question1.1\obj\Debug\ConsoleApp.Question1.1.pdb
