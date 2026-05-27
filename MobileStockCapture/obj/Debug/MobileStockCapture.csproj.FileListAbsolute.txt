@@ -1,0 +1,10 @@
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.csproj.AssemblyReference.cache
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.Form1.resources
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.Properties.Resources.resources
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.csproj.GenerateResource.cache
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.csproj.CoreCompileInputs.cache
+C:\C# Exercises\MobileStockCapture\bin\Debug\MobileStockCapture.exe.config
+C:\C# Exercises\MobileStockCapture\bin\Debug\MobileStockCapture.exe
+C:\C# Exercises\MobileStockCapture\bin\Debug\MobileStockCapture.pdb
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.exe
+C:\C# Exercises\MobileStockCapture\obj\Debug\MobileStockCapture.pdb
